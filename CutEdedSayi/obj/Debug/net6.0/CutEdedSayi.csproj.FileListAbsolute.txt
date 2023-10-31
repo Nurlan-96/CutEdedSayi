@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\bin\Debug\net6.0\CutEdedSayi.exe
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\bin\Debug\net6.0\CutEdedSayi.deps.json
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\bin\Debug\net6.0\CutEdedSayi.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\bin\Debug\net6.0\CutEdedSayi.dll
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\bin\Debug\net6.0\CutEdedSayi.pdb
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.dll
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\refint\CutEdedSayi.dll
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.pdb
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\CutEdedSayi.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\CutEdedSayi\CutEdedSayi\obj\Debug\net6.0\ref\CutEdedSayi.dll
